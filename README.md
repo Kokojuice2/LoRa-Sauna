@@ -19,4 +19,5 @@ Dit project heeft als doel om temperatuur, vochtigheid, lichtsterkte te meten.
 Created by Thomas Telkamp & Matthijs Kooijman
 
 Finetuned by Joachim Pham
+
 Email@: kokojuice2@icloud.com
